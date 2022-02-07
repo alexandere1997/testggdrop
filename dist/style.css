@@ -299,7 +299,8 @@ body {
     width: 75px;
     display: flex;
     justify-content: space-around;
-    align-items: center; }
+    align-items: center;
+    text-decoration: none; }
   .statistics__flags {
     font-family: Gotham;
     font-style: normal;
