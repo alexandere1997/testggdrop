@@ -1,2 +1,4 @@
-# testggdrop
-testggdrop
+Запуск:
+npm install
+gulp
+
